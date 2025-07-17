@@ -1,0 +1,30 @@
+p {
+  font-family: sans-serif;
+  padding: 10px;
+}
+.price {
+  color: blue;
+  margin-left: 100px;
+  font-size: larger;
+  font-style: italic;
+}
+button {
+  background-color: black;
+  color: white;
+  padding: 20px;
+  margin-left: 120px;
+  margin-bottom: 50px;
+}
+button:hover {
+  background-color: rgb(97, 18, 171);
+  cursor: pointer;
+}
+
+article {
+  background-color: rgb(241, 241, 181);
+  border-radius: 20px;
+}
+h2 {
+  margin-left: 10px;
+  padding-top: 5px;
+}
